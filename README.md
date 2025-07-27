@@ -39,13 +39,8 @@ A full-stack web application for conducting online exams with real-time features
 
 ---
 
-## Getting Started
-
 ### Prerequisites
 - Docker (recommended)  
 - Node.js and npm (if running manually)
 
-### Run with Docker
-```bash
-docker-compose up --build
 
